@@ -3,17 +3,17 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Solore",
+  "description": "This mod is about some lore for a random Minecraft realm me and this one guy once had.",
   "authors": [
-    "Me!"
+    "maxiderp"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/maxiderp/Solore",
+    "sources": "https://github.com/maxiderp/Solore"
   },
 
-  "license": "CC0-1.0",
+  "license": "Mozilla Public License 2.0",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",

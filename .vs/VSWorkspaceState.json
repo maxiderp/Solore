@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\gradle",
+    "\\gradle\\wrapper",
+    "\\src\\main",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\build.gradle",
+  "PreviewInSolutionExplorer": false
+}

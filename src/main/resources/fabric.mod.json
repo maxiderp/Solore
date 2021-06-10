@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "solore",
   "version": "${version}",
 
   "name": "Solore",
@@ -9,8 +9,8 @@
     "maxiderp"
   ],
   "contact": {
-    "homepage": "https://github.com/maxiderp/Solore",
-    "sources": "https://github.com/maxiderp/Solore"
+    "sources": "https://github.com/maxiderp/Solore",
+    "issues": "https://github.com/maxiderp/Solore/issues"
   },
 
   "license": "Mozilla Public License 2.0",
